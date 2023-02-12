@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Newdio-NewdioUITests/Pods-Newdio-NewdioUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AnyFormatKit/AnyFormatKit.framework
+${BUILT_PRODUCTS_DIR}/Gifu/Gifu.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

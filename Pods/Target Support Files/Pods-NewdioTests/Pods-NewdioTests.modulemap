@@ -1,0 +1,6 @@
+framework module Pods_NewdioTests {
+  umbrella header "Pods-NewdioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
