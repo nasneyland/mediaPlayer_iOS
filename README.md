@@ -1,11 +1,11 @@
 ## dogDiary_iOS
 유튜브 뮤직을 벤치마킹 한 미디어 플레이어 앱입니다.<br/><br/>
-<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_01.jpg"  width="110"> <img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_02.jpg"  width="110">
-<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_03.jpg"  width="110">
-<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_04.jpg"  width="110">
-<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_05.jpg"  width="110">
-<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_06.jpg"  width="110">
-<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer_07.jpg"  width="110"><br/>
+<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_01.jpg"  width="110"> <img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_02.jpg"  width="110">
+<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_03.jpg"  width="110">
+<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_04.jpg"  width="110">
+<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_05.jpg"  width="110">
+<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_06.jpg"  width="110">
+<img src="https://raw.githubusercontent.com/nasneyland/nasneyland/main/mediaplayer/mediaplayer_07.jpg"  width="110"><br/>
 
 ### 디자인 패턴
 - MVC 패턴 사용 (플레이어만 MVP 패턴 사용)
